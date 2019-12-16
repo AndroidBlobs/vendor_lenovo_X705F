@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="remove_gms_apk" value=""/>
+    <config name="remove_platform_apk" value=""/>
+    <config name="showing_apk" value=""/>
+    <config name="language" value="en_US"/>
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="America/New_York"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

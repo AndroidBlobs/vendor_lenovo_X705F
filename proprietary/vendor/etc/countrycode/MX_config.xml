@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <!--yexumin@wind-mobi.com modify Feature10638 20180410 start-->
+    <config name="SmsEncoding7bit" value="yes"/>
+    <!--yexumin@wind-mobi.com modify Feature10638 20180410 end-->
+    <config name="language" value="es_US"/>
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="America/Mexico_City"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="language" value="ko_KR"/>
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Asia/Seoul"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

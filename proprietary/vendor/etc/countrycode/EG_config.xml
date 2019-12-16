@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <!--zhangheting@wind-mobi.com add 20190104 start-->
+    <config name="remove_gms_apk" value="com.google.android.videos"/>
+    <!--zhangheting@wind-mobi.com add 20190104 end-->
+    <config name="language" value="ar_EG"/>
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Africa/Cairo"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

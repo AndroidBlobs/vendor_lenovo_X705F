@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="remove_gms_apk" value=""/>
+    <config name="remove_platform_apk" value="com.cyanogenmod.filemanager"/>
+    <config name="all_preloaded_apk" value="ru.yandex.searchplugin;com.yandex.browser;jp.co.fsi.fskaren.lenovo;jp.co.fsi.fskaren.lenovo.theme.japaneseStyle;jp.co.fsi.fskaren.lenovo.theme.pretty;jp.co.fsi.fskaren.lenovo.theme.toyBox;jp.co.fsi.fskaren.lenovo.theme.aqua;jp.co.fsi.fskaren.lenovo.theme.wood;jp.co.fsi.fskaren.lenovo.theme.stylish;jp.co.fsi.fskaren.lenovo.theme.sf;jp.co.fsi.fskaren.lenovo.theme.decoCute;jp.co.fsi.fskaren.lenovo.theme.decoKira"/>
+    <config name="chrome_home_page" value="http://www.lenovo.com"/>
+</list>

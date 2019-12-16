@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="language" value="en_GB"/>
+    <config name="lenovo_usage_statistics_menu" value="yes"/>
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Europe/London"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <!--zhangheting@wind-mobi.com add 20180406 start-->
+    <config name="remove_gms_apk" value="com.google.android.videos"/>
+    <!--zhangheting@wind-mobi.com add 20180406 end-->
+    <config name="language" value="en_US"/>
+    <config name="lenovo_usage_statistics_menu" value="yes"/>
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Europe/Bucharest"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

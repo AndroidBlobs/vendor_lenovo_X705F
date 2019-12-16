@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="language" value="zh_TW"/>
+    <!--lijingwei@wind-mobi.com Feature#10938 20180523 start-->
+    <config name="showReconfirmDialog" value="yes"/>
+    <!--lijingwei@wind-mobi.com Feature#10938 20180523 end-->
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Asia/Taipei"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="language" value="en_US"/>
+    <!--guozishen@wind-mobi.com start at 20180503 modify feature#10639-->
+    <config name="backlight_brightness" value="yes"/>
+    <!--guozishen@wind-mobi.com end-->
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Asia/Ho_Chi_Minh"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

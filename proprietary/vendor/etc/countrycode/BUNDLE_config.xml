@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="remove_platform_apk" value="com.lenovo.tabm10;com.lenovo.tab10plus;ru.yandex.searchplugin;com.yandex.browser"/>
+</list>

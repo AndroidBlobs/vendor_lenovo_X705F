@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="language" value="en_IN"/>
+    <!--guozishen@wind-mobi.com start at 20180413 modify feature#10639-->
+    <config name="date_formate_dd_mm_yyyy" value="yes"/>
+    <!--guozishen@wind-mobi.com end-->
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Asia/Kolkata"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

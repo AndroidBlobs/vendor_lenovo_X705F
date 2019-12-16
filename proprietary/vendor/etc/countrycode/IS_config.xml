@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="language" value="en_US"/>
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Atlantic/Reykjavik"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>

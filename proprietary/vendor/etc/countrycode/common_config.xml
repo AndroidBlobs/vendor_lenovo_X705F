@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="language" value="en-US"/>
+    <config name="remove_gms_apk" value=""/>
+    <config name="remove_platform_apk" value=""/>
+    <config name="all_preloaded_apk" value=""/>
+    <config name="showing_apk" value=""/>
+    <!--guozishen@wind-mobi.com start at 20180503 modify feature#10639-->
+    <config name="backlight_brightness" value="yes"/>
+    <!--guozishen@wind-mobi.com end-->
+</list>

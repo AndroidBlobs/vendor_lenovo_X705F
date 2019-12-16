@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <!--zhangheting@wind-mobi.com add 20180406 start-->
+    <config name="showing_apk" value="ru.yandex.searchplugin;com.yandex.browser"/>
+    <config name="remove_platform_apk" value="com.netflix.mediaclient"/>
+    <config name="remove_gms_apk" value="com.google.android.talk"/>
+    <config name="timezone" value="Europe/Moscow"/>
+    <!--zhangheting@wind-mobi.com add 20180406 end-->
+    <!--yexumin@wind-mobi.com start for Feature10929 20180402 start-->
+    <config name="MmsConfigMaxSize" value="1024000"/>
+    <!--yexumin@wind-mobi.com start for Feature10929 20180402 end-->
+    <config name="language" value="ru_RU"/>
+    <!--guozishen@wind-mobi.com start at 20180413 modify feature#10639-->
+    <config name="def_time_12_24" value="yes"/>
+    <!--guozishen@wind-mobi.com end-->
+    <!--guozishen@wind-mobi.com start at 20180413 modify feature#10639-->
+    <config name="date_formate_dd_mm_yyyy" value="yes"/>
+    <!--guozishen@wind-mobi.com end-->
+    <!--guozishen@wind-mobi.com start at 20180524-->
+    <config name="data_traffic" value="yes"/>
+    <!--guozishen@wind-mobi.com end-->
+</list>

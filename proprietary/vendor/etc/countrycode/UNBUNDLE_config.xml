@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="remove_platform_apk" value="com.amazon.dee.app;amazon.speech.sim;com.lenovo.smarttabp10;com.lenovo.smarttabm10;com.lenovo.linkapp"/>
+</list>

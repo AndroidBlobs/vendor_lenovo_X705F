@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="language" value="en_US"/>
+    <config name="lenovo_usage_statistics_menu" value="yes"/>
+    <!--yexumin@wind-mobi.com modify Feature10990 20180515 start-->
+    <config name="SmsEncoding7bit" value="yes"/>
+    <!--yexumin@wind-mobi.com modify Feature100990 20180515 end-->
+    <!--zhangheting@wind-mobi.com add 20180712 start -->
+    <config name="timezone" value="Europe/Athens"/>
+    <!--zhangheting@wind-mobi.com add 20180712 end -->
+</list>
